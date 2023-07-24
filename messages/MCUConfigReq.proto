@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message MCUConfigReq {
-  string key = 1;
-  optional string configuration = 2;
-}
