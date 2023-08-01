@@ -1,5 +1,9 @@
 {
     "type": "response",
     "purpose": "failure",
-    "cause": {}
+    "payload": {
+        "cause": {
+            "detail": ""
+        }
+    }
 }
