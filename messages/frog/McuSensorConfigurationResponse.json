@@ -1,0 +1,20 @@
+{
+    "type": "response",
+    "purpose": "get_configuration",
+    "payload": {
+        "sensors": [
+            {
+                "pin_number": 501,
+                "type": "temperature",
+                "min_value": 12,
+                "max_value": 38
+            },
+            {
+                "pin_number": 501,
+                "type": "humidity",
+                "min_value": 25,
+                "max_value": 50
+            }
+        ]
+    }
+}
